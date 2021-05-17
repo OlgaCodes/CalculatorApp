@@ -7,7 +7,6 @@ Aplikacja kalkulator na Android. Z ekranu głównego można przejść do kalkula
 
 ![image](https://user-images.githubusercontent.com/84285452/118478169-da4ffe00-b70f-11eb-8fb3-6326c56ac263.png)
 ![image](https://user-images.githubusercontent.com/84285452/118478234-ec31a100-b70f-11eb-86f8-a39b91f3ce20.png)
-
 ![image](https://user-images.githubusercontent.com/84285452/118478288-fce21700-b70f-11eb-8739-3021d3c036d0.png)
 
 ![image](https://user-images.githubusercontent.com/84285452/118478432-29962e80-b710-11eb-96cb-005278b83daa.png)
